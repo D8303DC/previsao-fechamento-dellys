@@ -1,0 +1,5 @@
+Web app cifrado da Previsao de Fechamento - Delly's
+
+Conteudo: casca publica (index.html) com o painel completo cifrado por senha (AES-256-GCM, PBKDF2 600k, sal fixo por mes).
+Senha (forte, 20 caracteres): fora do projeto, em C:\Users\D8303DC\.previsao_fechamento\senha.txt. Trocar = editar o arquivo (>= 16 caracteres); a proxima emissao recifra com sal novo e os aparelhos pedem a senha de novo.
+Publicacao: scripts\publicar_pwa.py (GitHub Pages; so publica emissao nova). iPhone: Safari > Compartilhar > Adicionar a Tela de Inicio; 'Lembrar neste aparelho' guarda a chave do mes.
