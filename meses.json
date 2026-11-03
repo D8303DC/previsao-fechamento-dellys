@@ -1,0 +1,16 @@
+{
+ "atualizado_em": "2026-11-03T18:47:39-03:00",
+ "ativo": "2026-11",
+ "meses": [
+  {
+   "mes": "2026-11",
+   "nome": "Novembro/2026",
+   "estado": "ativo"
+  },
+  {
+   "mes": "2026-10",
+   "nome": "Outubro/2026",
+   "estado": "fechado"
+  }
+ ]
+}
